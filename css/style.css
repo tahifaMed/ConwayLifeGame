@@ -1,0 +1,6 @@
+.black {
+  -fx-control-inner-background: black;
+}
+.white {
+  -fx-control-inner-background: white;
+}
